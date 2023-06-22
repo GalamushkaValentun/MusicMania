@@ -8,7 +8,7 @@
     -webkit-background-size: 100% 100%, auto;
     background-size: 100% 100%, auto; 
     
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Times New Roman", Times, serif;
 
 }   
 div{
@@ -37,7 +37,7 @@ font-size: 400%;
 }
 .div{
     font-size: 150%;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Times New Roman", Times, serif;
     
 }
 
@@ -83,7 +83,7 @@ h2:hover {
     -webkit-background-size: 100% 100%, auto;
     background-size: 100% 100%, auto; 
     font-size: 150%;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Times New Roman", Times, serif;
   }
   
   .container {
