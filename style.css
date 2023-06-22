@@ -130,3 +130,7 @@ h2:hover {
     display: block;
     margin-top: 20px;
   }
+
+Font {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
